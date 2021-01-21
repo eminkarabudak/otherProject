@@ -1,0 +1,183 @@
+{
+  "organisationsName": [
+    {
+      "name": "Organizasyon Adı",
+      "value": "Organizasyon_Adı"
+    },
+    {
+      "name": "Marka Adı",
+      "value": "Marka_Adı"
+    },
+    {
+      "name": "Sabit",
+      "value": "Sabit"
+    },
+    {
+      "name": "Genişbant",
+      "value": "Genişbant"
+    },
+    {
+      "name": "Mobil",
+      "value": "Mobil"
+    },
+    {
+      "name": "Ovit",
+      "value": "Ovit"
+    }
+  ],
+  "organisations": [
+    {
+      "Organizasyon_Id": "1-SFA-29562",
+      "Organizasyon_Adı": "hazerfan ",
+      "Marka_Adı": "Arkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29563",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "aarkaa",
+      "Sabit": false,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29564",
+      "Organizasyon_Adı": "limited",
+      "Marka_Adı": "yyArkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29565",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "asrkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29566",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "azrkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29567",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "asrkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29568",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "aorkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29569",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "airkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29570",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "aurkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29571",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "ayrkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29572",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "atrkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29573",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "arrkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29574",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "ahrkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29575",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "agrkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29576",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "adrkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29577",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "acrkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    },
+    {
+      "Organizasyon_Id": "1-SFA-29578",
+      "Organizasyon_Adı": "1461 Trabzon Futbol işletmeceliği Ticaret A.Ş.",
+      "Marka_Adı": "abrkaa",
+      "Sabit": true,
+      "Genişbant": false,
+      "Mobil": true,
+      "Ovit": true
+    }
+  ]
+}
